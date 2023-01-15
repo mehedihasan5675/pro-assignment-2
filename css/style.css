@@ -442,39 +442,6 @@ filter: contrast(0);
 
 
 
-/*============================
-      footer  part start 
-==============================*/
-#footer{
-        padding:80px 0 0 0;
-
-}
-.footer{
-        background: #FFF4E7;
-        text-align: center;
-        padding:40px 0;
-        border-radius: 8px;
-
-
-}
-.footer p{
-       color:#727272
-
-
-}
-
-
-
-
-
-
-
-
-/*============================
-      footer  part end 
-==============================*/
-
-
 /* ===================================
 portfolio part start
 ======================================*/
@@ -539,6 +506,39 @@ portfolio part start
      /* ===================================
     portfolio part end
     ======================================*/
+
+
+/*============================
+      footer  part start 
+==============================*/
+#footer{
+        padding:80px 0 0 0;
+
+}
+.footer{
+        background: #FFF4E7;
+        text-align: center;
+        padding:40px 0;
+        border-radius: 8px;
+
+
+}
+.footer p{
+       color:#727272
+
+
+}
+
+
+
+
+
+
+
+
+/*============================
+      footer  part end 
+==============================*/
 
 
 
