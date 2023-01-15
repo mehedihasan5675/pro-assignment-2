@@ -491,6 +491,8 @@ portfolio part start
     .portfolio_img{
         position:relative;
         cursor: pointer;
+        border-radius: 10px;
+        overflow: hidden;
     }
     .portfolio_img img{
         width:100%;
