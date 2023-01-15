@@ -489,7 +489,8 @@ portfolio part start
         }
    
     .portfolio_img{
-        position:relative
+        position:relative;
+        cursor: pointer;
     }
     .portfolio_img img{
         width:100%;
